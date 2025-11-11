@@ -7,4 +7,4 @@ read num2
 sum=`expr $num1 + $num2`
 echo "the added value is $sum"
 
-
+echo "just for understading the git"
